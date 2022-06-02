@@ -678,9 +678,15 @@ a {
 }
 
 p {
-  font-size: 11px;
+  font-size: 12px;
 }
-
+.citation {
+  font-size: 16px;
+  color: black;
+}
+.description {
+  color: black;
+}
 .tight-width-whitespace {
   max-width: 600px;
   margin: auto auto auto auto;
@@ -738,6 +744,7 @@ h4 {
 
 .white {
   color: #370c0c;
+  font-size: 12px;
 }
 
 .portfolio-thumb {
@@ -777,6 +784,7 @@ h4 {
 
 .tc-white {
   color: #fffffc;
+  position: relative;
 }
 
 .btn-atomic-tangerine {
@@ -791,6 +799,7 @@ h4 {
 
 .ltc-white {
   color: #ffffff !important;
+  font-size: 16px;
 }
 
 .ltc-white:hover {
@@ -1026,6 +1035,12 @@ h4 {
   .blocsapp-device-iphone5 img {
     width: 180px;
     height: 320px;
+  }
+  .social {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
   }
 }
 
