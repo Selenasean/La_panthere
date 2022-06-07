@@ -10,18 +10,11 @@
 	<meta name="description"
 		content="Vous souhaitez parler graphisme, web design, illustrations, identité visuelle, ou encore webmarketing, prenez contact avec l'agence la panthère ou dans nos locaux située dans la ville de lyon">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-	<link defer rel="shortcut icon" type="image/png" href="favicon.jpg">
-	<link defer rel="stylesheet" type="text/css" href="./css/bootstrap.css">
-	<link defer rel="stylesheet" type="text/css" href="style.css">
-	<link defer rel="stylesheet" type="text/css" href="./css/font-awesome.css">
-	<link defer rel="stylesheet" type="text/css" href="./css/et-line.css">
-
-
-	<script defer src="./js/jquery-2.1.0.js"></script>
-	<script defer src="./js/bootstrap.js"></script>
-	<script defer src="./js/blocs.js"></script>
-	<script defer src="./js/jqBootstrapValidation.js"></script>
-	<script defer src="./js/formHandler.js"></script>
+	<link rel="shortcut icon" type="image/png" href="favicon.jpg">
+	<link rel="stylesheet" type="text/css" href="./css/bootstrap.css">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="./css/font-awesome.css">
+	<link rel="stylesheet" type="text/css" href="./css/et-line.css">
 	<title>Contact Agence La Panthere</title>
 
 
@@ -83,8 +76,8 @@
 			<div class="container bloc-lg">
 				<div class="row">
 					<div class="col-sm-6">
-						<form id="form_1" novalidate success-msg="Your message has been sent."
-							fail-msg="Sorry it seems that our mail server is not responding, Sorry for the inconvenience!">
+						<form id="form_1" novalidate data-success-msg="Your message has been sent."
+							data-fail-msg="Sorry it seems that our mail server is not responding, Sorry for the inconvenience!">
 							<div class="form-group">
 								<label for="name">
 									Nom
@@ -175,7 +168,11 @@
 
 	</main>
 	<!-- Principal conteneur END -->
-
+	<script defer src="./js/jquery-2.1.0.min.js"></script>
+	<script defer src="./js/bootstrap.min.js"></script>
+	<script defer src="./js/blocs.min.js"></script>
+	<script defer src="./js/jqBootstrapValidation.min.js"></script>
+	<script defer src="./js/formHandler.min.js"></script>
 
 </body>
 
