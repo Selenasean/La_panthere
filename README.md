@@ -8,7 +8,7 @@
      A partir du site, ameliorer le SEO en suivant les principes propres au réferencement naturel.
      En passant par l'amelioration de l'accessibilité du site, et l'optimisation de la vitesse de chargement.
      
-#### Le site optimisé est consultable à cette adresse
+#### Le site optimisé est consultable à cette adresse :
 
     https://selenasean.github.io/La_panthere/
     
