@@ -1,5 +1,6 @@
 # Agence La Panthère
-![agence-la-panthere-monochrome](https://user-images.githubusercontent.com/62901940/172435584-ec3bf768-4f9a-4c76-9ed4-ee8dd958d899.svg)
+![agence-la-panthere-monochrome](https://user-images.githubusercontent.com/62901940/172438487-aa256082-0762-4fb1-92b6-59df8620e80c.svg)
+
 ## OPENCLASSROOM - PROJET 4
 ### - Optimisez un site web existant -
 
@@ -12,3 +13,4 @@
     https://selenasean.github.io/La_panthere/
     
   
+
